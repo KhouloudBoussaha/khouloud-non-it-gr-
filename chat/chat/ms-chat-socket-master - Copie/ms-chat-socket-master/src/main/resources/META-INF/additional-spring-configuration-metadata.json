@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "witai.accessToken",
+      "type": "java.lang.String",
+      "description": "Description for witai.accessToken."
+  }
+] }
